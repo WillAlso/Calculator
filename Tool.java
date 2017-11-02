@@ -1,4 +1,3 @@
-package java_demo02;
 
 import java.io.DataInputStream;
 import java.io.IOException;

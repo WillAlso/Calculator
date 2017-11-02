@@ -1,4 +1,3 @@
-package java_demo02;
 
 abstract class Operation {
     abstract double operation(double a,double b);

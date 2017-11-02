@@ -1,4 +1,3 @@
-package java_demo02;
 
 public class Opera {
     public static double opera(double a, char theta, double b){
